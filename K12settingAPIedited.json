@@ -9165,7 +9165,7 @@
         }
       }
     },
-    "/LTAProfiles/GetLTAProfiles": {
+    "/LTAProfiles/LTAProfiles/GetLTAProfiles": {
       "get": {
         "summary": "/api/LTAProfiles/GetLTAProfiles",
         "tags": [

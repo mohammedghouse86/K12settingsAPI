@@ -9516,7 +9516,7 @@
         }
       }
     },
-    "/LTAProfiles/DeleteProfile": {
+    "/LTAProfiles/LTAProfiles/DeleteProfile": {
       "post": {
         "summary": "/api/LTAProfiles/DeleteProfile",
         "tags": [

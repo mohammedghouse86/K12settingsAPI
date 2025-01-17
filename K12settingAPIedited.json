@@ -9309,7 +9309,7 @@
         }
       }
     },
-    "/LTAProfiles/GetProfileDetails": {
+    "/LTAProfiles/LTAProfiles/GetProfileDetails": { 
       "get": {
         "summary": "/api/LTAProfiles/GetProfileDetails",
         "tags": [

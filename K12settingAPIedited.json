@@ -9167,11 +9167,11 @@
     },
     "/LTAProfiles/LTAProfiles/GetLTAProfiles": {
       "get": {
-        "summary": "/api/LTAProfiles/GetLTAProfiles",
+        "summary": "/api/LTAProfiles/LTAProfiles/GetLTAProfiles",
         "tags": [
           "GetLTAProfiles"
         ],
-        "operationId": "/api/LTAProfiles/GetLTAProfiles",
+        "operationId": "/api/LTAProfiles/LTAProfiles/GetLTAProfiles",
         "deprecated": false,
         "produces": [
           "application/json"
@@ -9311,11 +9311,11 @@
     },
     "/LTAProfiles/LTAProfiles/GetProfileDetails": { 
       "get": {
-        "summary": "/api/LTAProfiles/GetProfileDetails",
+        "summary": "/api/LTAProfiles/LTAProfiles/GetProfileDetails",
         "tags": [
           "GetProfileDetails"
         ],
-        "operationId": "/api/LTAProfiles/GetProfileDetails",
+        "operationId": "/api/LTAProfiles/LTAProfiles/GetProfileDetails",
         "deprecated": false,
         "produces": [
           "application/json"
@@ -9454,11 +9454,11 @@
     },
     "/LTAProfiles/LTAProfiles/UpdateProfile": {
       "post": {
-        "summary": "/api/LTAProfiles/UpdateProfile",
+        "summary": "/api/LTAProfiles/LTAProfiles/UpdateProfile",
         "tags": [
           "UpdateProfile"
         ],
-        "operationId": "/api/LTAProfiles/UpdateProfile",
+        "operationId": "/api/LTAProfiles/LTAProfiles/UpdateProfile",
         "deprecated": false,
         "produces": [
           "application/json"
@@ -9518,11 +9518,11 @@
     },
     "/LTAProfiles/LTAProfiles/DeleteProfile": {
       "post": {
-        "summary": "/api/LTAProfiles/DeleteProfile",
+        "summary": "/api/LTAProfiles/LTAProfiles/DeleteProfile",
         "tags": [
           "DeleteProfile"
         ],
-        "operationId": "/api/LTAProfiles/DeleteProfile",
+        "operationId": "/api/LTAProfiles/LTAProfiles/DeleteProfile",
         "deprecated": false,
         "produces": [
           "application/json"

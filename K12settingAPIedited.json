@@ -9452,7 +9452,7 @@
         }
       }
     },
-    "/LTAProfiles/UpdateProfile": {
+    "/LTAProfiles/LTAProfiles/UpdateProfile": {
       "post": {
         "summary": "/api/LTAProfiles/UpdateProfile",
         "tags": [

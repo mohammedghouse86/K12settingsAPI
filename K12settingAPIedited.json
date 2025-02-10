@@ -9388,13 +9388,13 @@
         }
       }
     },
-    "/LTAProfiles/SaveProfile": {
+    "/LTAProfiles/LTAProfiles/SaveProfile": {
       "post": {
-        "summary": "/api/LTAProfiles/SaveProfile",
+        "summary": "/api/LTAProfiles/LTAProfiles/SaveProfile",
         "tags": [
           "SaveProfile"
         ],
-        "operationId": "/api/LTAProfiles/SaveProfile",
+        "operationId": "/api/LTAProfiles/LTAProfiles/SaveProfile",
         "deprecated": false,
         "produces": [
           "application/json"
